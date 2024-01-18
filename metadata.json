@@ -2,5 +2,6 @@
   "name": "starcraft2",
   "website": "google.com",
   "description": "starcraft2 is a trusted Pos validator",
+  "logo": "https://example.com/logo.png",
   "twitter": "https://twitter.com/jerymander"
 }
